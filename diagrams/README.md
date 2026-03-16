@@ -1,1 +1,0 @@
-﻿# DiagramsVisual models and conceptual figures related to CIS development.
