@@ -40,7 +40,7 @@ cis-research/
 ├── idea_provenance_notes.md
 ├── repository_contents.md
 │
-├── diagrams/
+├── figures/
 │   └── CIS_Concept_Evolution.png
 │
 ├── concepts/
@@ -73,7 +73,7 @@ Notes regarding reconstruction limits, documentation sources, and interpretive c
 
 Visual models and conceptual evolution diagrams are stored in:
 
-diagrams/
+figures/
 
 These figures illustrate major conceptual transitions within the CIS framework.
 

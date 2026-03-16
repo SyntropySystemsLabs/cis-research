@@ -1,4 +1,4 @@
-﻿# Repository Contents
+# Repository Contents
 
 This document provides a structured overview of the files and directories contained in this repository.
 
@@ -33,7 +33,7 @@ Documentation explaining how the development timeline and research artifacts wer
 
 # Directories
 
-## diagrams/
+## figures/
 
 Contains visual representations of the CIS framework and conceptual evolution.
 
